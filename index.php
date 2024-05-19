@@ -496,6 +496,222 @@ $mpdf->WriteHTML('
                 <tr>
                     <td style="padding-top: 26px;border-bottom:1px solid #b5b0b0;"></td>
                 </tr>
+                <tr>
+                    <td style="font-size:14px;color:#000;line-height:140%;padding-top:30px;">If the response to either Q4 or Q9 is &apos;Yes&apos;, the supplemental questions below are required to be completed.</td>
+                </tr>
+                <tr>
+                    <td style="font-size:14px;color:#000;line-height:140%;">If the response to Q10 is &apos;Yes&apos;, the Sanction Customer Questionnaire - Russia/Belarus Annex below is required to be completed.</td>
+                </tr>
+            </table>
+            <pagebreak>
+            <table cellpadding="0" cellspacing="0" width="100%" style="margin: 0px 20px 20px;">
+                <tr>
+                    <td align="center" style="font-size:18px;color:#000;line-height:140%;padding-top: 23px;">Supplemental Questions (only required if either Q4 or Q9 have &apos;Yes&apos; as a response)</td>
+                </tr>
+                <tr>
+                    <td style="font-size:14px;color:#000;line-height:140%;padding-top: 30px;">List the total approximate percentage of revenue generated or anticipated, either directly or indirectly, through the customer or its subsidiaries
+                    or affiliates from operations, sales, services, contracts or any other transactions with persons, entities, or the government (including
+                    government-owned entities, agencies and instrumentalities) in an OFAC Comprehensively Sanctioned Country/Region or who are otherwise
+                    Sanctioned Parties (excluding Sectoral Sanctions).</td>
+                </tr>
+                <tr>
+                    <td style="font-size:14px;color:#000;line-height:140%;padding-top: 20px;">Check all that apply and provide approximate % revenue for each jurisdiction or Sanctioned Party</td>
+                </tr>
+            </table>
+            <table cellpadding="0" cellspacing="0" width="100%" style="margin: 20px 20px 20px;padding-left:20px;">
+                <tr>
+                    <td width="3%" style="verticle-align:middle;"><input type="checkbox" /></td>
+                    <td width="37%" style="font-size:14px;color:#000;verticle-align:middle;">Crimea/DNR</td>
+                    <td width="20%" style="border-bottom:1px solid;font-size:14px;color:#000;verticle-align:middle;"></td>
+                    <td width="40%" style="font-size:14px;color:#000;verticle-align:middle;">%</td>
+                </tr>
+                <tr>
+                    <td width="3%" style="verticle-align:middle;"><input type="checkbox" /></td>
+                    <td width="37%" style="font-size:14px;color:#000;verticle-align:middle;">Cuba</td>
+                    <td width="20%" style="border-bottom:1px solid;font-size:14px;color:#000;verticle-align:middle;"></td>
+                    <td width="40%" style="font-size:14px;color:#000;verticle-align:middle;">%</td>
+                </tr>
+                <tr>
+                    <td width="3%" style="verticle-align:middle;"><input type="checkbox" /></td>
+                    <td width="37%" style="font-size:14px;color:#000;verticle-align:middle;">Sanctioned Party Revenue</td>
+                    <td width="20%" style="border-bottom:1px solid;font-size:14px;color:#000;verticle-align:middle;"></td>
+                    <td width="40%" style="font-size:14px;color:#000;verticle-align:middle;">%</td>
+                </tr>
+                <tr>
+                    <td width="3%" style="verticle-align:middle;"><input type="checkbox" /></td>
+                    <td width="37%" style="font-size:14px;color:#000;verticle-align:middle;">Iran, Islamic Republic of</td>
+                    <td width="20%" style="border-bottom:1px solid;font-size:14px;color:#000;verticle-align:middle;"></td>
+                    <td width="40%" style="font-size:14px;color:#000;verticle-align:middle;">%</td>
+                </tr>
+                <tr>
+                    <td width="3%" style="verticle-align:middle;"><input type="checkbox" /></td>
+                    <td width="37%" style="font-size:14px;color:#000;verticle-align:middle;">Syrian Arab Republic</td>
+                    <td width="20%" style="border-bottom:1px solid;font-size:14px;color:#000;verticle-align:middle;"></td>
+                    <td width="40%" style="font-size:14px;color:#000;verticle-align:middle;">%</td>
+                </tr>
+                <tr>
+                    <td width="3%" style="verticle-align:middle;"><input type="checkbox" /></td>
+                    <td width="37%" style="font-size:14px;color:#000;verticle-align:middle;">Korea Democratic People’s Republic of</td>
+                    <td width="20%" style="border-bottom:1px solid;font-size:14px;color:#000;verticle-align:middle;"></td>
+                    <td width="40%" style="font-size:14px;color:#000;verticle-align:middle;">%</td>
+                </tr>
+            </table>
+            <table cellpadding="0" cellspacing="0" width="100%" style="margin: 0px 20px 20px;">
+                <tr>
+                    <td style="font-size:14px;color:#000;line-height:140%;padding-top: 15px;">If the customer has business dealings in an OFAC Comprehensively Sanctioned Country/Region or with a Sanctioned Party, is this activity
+                    segregated from their Illiquidx relationship?</td>
+                </tr>
+                <tr>
+                    <td style="font-size:14px;color:#000;line-height:140%;padding-top: 5px;padding-right:40px; text-align:right;"><input type="checkbox"> &nbsp;Yes &nbsp;&nbsp;<input type="checkbox"> No</td>
+                </tr>
+            </table>
+            <table cellpadding="0" cellspacing="0" width="100%" style="margin: 0px 20px 20px;">
+                <tr>
+                    <td width="50%" style="font-size:14px;color:#000;line-height:140%;padding:20px 0px 20px 20px;verticle-align:middle;">
+                    If &apos;No&apos;, please explain how the activity is not segregated and is being
+                    facilitated through the Illiquidx relationship, including details of any
+                    relevant controls, policies, and procedures. If applicable, please
+                    provide license details and a copy of the license, if under an OFAC
+                    specific license or governmental license.<br>
+                    Please note, no activity related to Sanctions should be facilitated via
+                    the Illiquidx relationship without prior approval directly from Illiquidx,
+                    even if authorized under a local regulation.
+                    </td>
+                    <td width="50%" style="border:1px solid;verticle-align:middle;"></td>
+                </tr>
+            </table>
+            <pagebreak>
+            <table cellpadding="0" cellspacing="0" width="100%" style="margin: 0px 20px 20px;padding-top:50px;">
+                <tr>
+                    <td align="center" style="font-size:18px;color:#000;line-height:140%;padding-top: 23px;">Sanctions Customer Questionnaire - Russia/Belarus Annex (only required if Q10 has
+                    &apos;Yes&apos; as a response)</td>
+                </tr>
+                <tr>
+                    <td style="font-size:14px;color:#000;line-height:140%;padding-top: 30px;">Please respond Yes/No and provide a detailed explanation at the bottom of this Annex.</td>
+                </tr>
+            </table>
+            <table cellpadding="0" cellspacing="0" width="100%" style="margin: 0px 20px 20px;padding-top:10px;">
+            
+                <tr>
+                    <td style="font-size:14px;color:#000;line-height:140%;vertical-align: top;" rowspan="2" width="2%">A.</td>
+                    <td style="font-size:14px;color:#000;line-height:140%;"> Please confirm that the customer has conducted an evaluation of all assets and operations to identify any dealings in Russia/Belarus, or
+                    with any Russian/Belarusian entities, and otherwise for compliance with sanctions imposed on Russia/Belarus and related entities</td>
+                </tr>
+                <tr>
+                    <td style="font-size:14px;font-weight:bold;color:#000;text-align:right;padding-right:130px;"><input type="checkbox"> Yes &nbsp;&nbsp; <input type="checkbox"> No</td>
+                </tr>
+            </table>
+            <table cellpadding="0" cellspacing="0" width="100%" style="margin: 0px 20px 20px;">
+                <tr>
+                    <td style="font-size:14px;color:#000;line-height:140%;vertical-align: top;" rowspan="2" width="2%">B.</td>
+                    <td style="font-size:14px;color:#000;line-height:140%;"> Does the customer do any business with any ministry, agency, state-owned entity, or sovereign fund of the Russian Federation (Central
+                    Bank of Russia, the National Wealth Fund, the Ministry of Finance of the Russian Federation, etc.)?</td>
+                </tr>
+                <tr>
+                    <td style="font-size:14px;font-weight:bold;color:#000;text-align:right;padding-right:130px;"><input type="checkbox"> Yes &nbsp;&nbsp; <input type="checkbox"> No</td>
+                </tr>
+            </table>
+            <table cellpadding="0" cellspacing="0" width="100%" style="margin: 0px 20px 20px;">
+                <tr>
+                    <td style="font-size:14px;color:#000;line-height:140%;vertical-align: top;" rowspan="2" width="2%">B.</td>
+                    <td style="font-size:14px;color:#000;line-height:140%;"> Does the customer do any business with any ministry, agency, state-owned entity, or sovereign fund of the Russian Federation (Central
+                    Bank of Russia, the National Wealth Fund, the Ministry of Finance of the Russian Federation, etc.)?</td>
+                </tr>
+                <tr>
+                    <td style="font-size:14px;font-weight:bold;color:#000;text-align:right;padding-right:130px;"><input type="checkbox"> Yes &nbsp;&nbsp; <input type="checkbox"> No</td>
+                </tr>
+            </table>
+            <table cellpadding="0" cellspacing="0" width="100%" style="margin: 0px 20px 20px;">
+                <tr>
+                    <td style="font-size:14px;color:#000;line-height:140%;vertical-align: top;" rowspan="2" width="2%">C.</td>
+                    <td style="font-size:14px;color:#000;line-height:140%;">Does the customer have dealings in Russia/Belarus or with any Russian/Belarusian entities, including, the following sectors:</td>
+                </tr>
+                <tr>
+                    <td style="font-size:14px;font-weight:bold;color:#000;text-align:right;padding-right:130px;"><input type="checkbox"> Yes &nbsp;&nbsp; <input type="checkbox"> No</td>
+                </tr>
+            </table>
+            <table cellpadding="0" cellspacing="0" width="100%" style="margin: 0px 0px 20px 50px;">
+                <tr>
+                    <td style="font-size:14px;color:#000;line-height:140%;">a. Energy (including Petrochemical);</td>
+                </tr>
+                <tr>
+                    <td style="font-size:14px;color:#000;line-height:140%;">b. Metals (including Gold, Iron, and Steel) and mining;</td>
+                </tr>
+                <tr>
+                    <td style="font-size:14px;color:#000;line-height:140%;">c. Defense/military;</td>
+                </tr>
+                <tr>
+                    <td style="font-size:14px;color:#000;line-height:140%;">d. Luxury goods;</td>
+                </tr>
+                <tr>
+                    <td style="font-size:14px;color:#000;line-height:140%;">e. Transportation; or</td>
+                </tr>
+                <tr>
+                    <td style="font-size:14px;color:#000;line-height:140%;">f. Any sector involving goods controlled by EU, UK, and U.S. Trade Sanctions targeting Russia and Belarus</td>
+                </tr>
+            </table>
+            <table cellpadding="0" cellspacing="0" width="100%" style="margin: 0px 20px 20px;">
+                <tr>
+                    <td style="font-size:14px;color:#000;line-height:140%;vertical-align: top;" rowspan="2" width="2%">D.</td>
+                    <td style="font-size:14px;color:#000;line-height:140%;">If involved in the oil/petroleum sector or an industry connected to transactions involving oil/petroleum of Russian origin, does the customer
+                    have policies, procedures, and controls for complying with the oil price caps determinations issued by the US/EU/UK? </td>
+                </tr>
+                <tr>
+                    <td style="font-size:14px;font-weight:bold;color:#000;text-align:right;padding-right:130px;"><input type="checkbox"> Yes &nbsp;&nbsp; <input type="checkbox"> No</td>
+                </tr>
+            </table>
+            <table cellpadding="0" cellspacing="0" width="100%" style="margin: 0px 20px 20px;">
+                <tr>
+                    <td style="font-size:14px;color:#000;line-height:140%;vertical-align: top;" rowspan="2" width="2%">E.</td>
+                    <td style="font-size:14px;color:#000;line-height:140%;">Does the customer provide any accounting, trust or corporate formation services, or management consulting services in Russia or to
+                    persons located in Russia? </td>
+                </tr>
+                <tr>
+                    <td style="font-size:14px;font-weight:bold;color:#000;text-align:right;padding-right:130px;"><input type="checkbox"> Yes &nbsp;&nbsp; <input type="checkbox"> No</td>
+                </tr>
+            </table>
+            <table cellpadding="0" cellspacing="0" width="100%" style="margin: 0px 20px 20px;">
+                <tr>
+                    <td style="font-size:14px;color:#000;line-height:140%;vertical-align: top;" rowspan="2" width="2%">F.</td>
+                    <td style="font-size:14px;color:#000;line-height:140%;">Does the customer rely on any general or specific license(s) related to dealings in Russia or Belarus? If yes, please describe the nature
+                    of the general or specific license(s) and the activity for which it must be relied upon. </td>
+                </tr>
+                <tr>
+                    <td style="font-size:14px;font-weight:bold;color:#000;text-align:right;padding-right:130px;"><input type="checkbox"> Yes &nbsp;&nbsp; <input type="checkbox"> No</td>
+                </tr>
+            </table>
+            <table cellpadding="0" cellspacing="0" width="100%" style="margin: 0px 20px 20px;">
+                <tr>
+                    <td style="font-size:14px;color:#000;line-height:140%;vertical-align: top;" rowspan="2" width="2%">G.</td>
+                    <td style="font-size:14px;color:#000;line-height:140%;">Has the customer applied for, or does it intend to apply for, any Specific Licenses related to dealings in Russia or Belarus? If yes, please
+                    describe the nature of the Specific License, the purpose for which it was requested and the status of the application.</td>
+                </tr>
+                <tr>
+                    <td style="font-size:14px;font-weight:bold;color:#000;text-align:right;padding-right:130px;"><input type="checkbox"> Yes &nbsp;&nbsp; <input type="checkbox"> No</td>
+                </tr>
+            </table>
+            <pagebreak>
+            <table cellpadding="0" cellspacing="0" width="100%" style="margin: 0px 20px 20px;padding-top:30px;">
+                <tr>
+                    <td style="font-size:14px;color:#000;line-height:140%;vertical-align: top;" rowspan="2" width="2%">H.</td>
+                    <td style="font-size:14px;color:#000;line-height:140%;">Will any part of the Illiquidx relationship be used directly or indirectly to fund any activities or business of or with any individual or entity,
+                    resident/located/ operating/organized/domiciled in Russia/Belarus, or an entity owned such a party, or acting on behalf or at the direction
+                    of such a party?</td>
+                </tr>
+                <tr>
+                    <td style="font-size:14px;font-weight:bold;color:#000;text-align:right;padding-right:130px;"><input type="checkbox"> Yes &nbsp;&nbsp; <input type="checkbox"> No</td>
+                </tr>
+            </table>
+            <table cellpadding="0" cellspacing="0" width="100%" style="margin: 0px 20px 20px;">
+                <tr>
+                    <td style="font-size:14px;color:#000;line-height:140%;vertical-align: top;" rowspan="2" width="2%">I.</td>
+                    <td style="font-size:14px;color:#000;line-height:140%;">Other than as discussed above, has the customer or, to the customer&apos;s knowledge, any of its or any of its subsidiaries&apos; or affiliates&apos;
+                    directors, officers, employees, agents or affiliates, taken any action that has resulted or may result in a violation of compliance with
+                    sanctions imposed on Russia/Belarus and related entities? If yes, provide details.</td>
+                </tr>
+                <tr>
+                    <td style="font-size:14px;font-weight:bold;color:#000;text-align:right;padding-right:130px;"><input type="checkbox"> Yes &nbsp;&nbsp; <input type="checkbox"> No</td>
+                </tr>
             </table>
     <body>
 </html>
